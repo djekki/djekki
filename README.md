@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djekki
 - 👀 I’m interested in ...a new Job... jajaj just kidding
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 📫 How to reach me ... join my network https://www.linkedin.com/in/djekki
 
 <!---
